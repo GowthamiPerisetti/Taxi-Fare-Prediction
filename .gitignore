@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+.venv-1/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training dataset
+data/
